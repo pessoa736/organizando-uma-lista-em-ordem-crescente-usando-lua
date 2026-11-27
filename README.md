@@ -1,8 +1,8 @@
-# organizando-uma-lista-em-ordem-crescente-usando-lua
+# lua-sort-ascending
 
 > **Status: unfinished.** An exercise from an IT course I took in 2024 and didn't finish. It stays public as a record, as it was left.
 
-("Organizando uma lista em ordem crescente usando Lua" = "Sorting a list in ascending order using Lua".)
+Originally named *organizando-uma-lista-em-ordem-crescente-usando-lua* ("sorting a list in ascending order using Lua").
 
 ## What it is
 
